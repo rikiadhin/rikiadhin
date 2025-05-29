@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikiadhin" alt="rikiadhin" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://rikiadhin.my.id](https://rikiadhin.my.id)
+- 👨‍💻 All of my projects are available at [rikiadhin.my.id](rikiadhin.my.id)
 
-- 📝 I regularly write articles on [https://rikiadhin.my.id](https://rikiadhin.my.id)
+- 📝 I regularly write articles on [rikiadhin.my.id](rikiadhin.my.id)
 
 - 📫 How to reach me **rikiadhin@gmail.com**
 
