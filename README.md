@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikiadhin" alt="rikiadhin" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://rikiadhin.my.id](https://rikiadhin.my.id)
+- 👨‍💻 All of my projects are available at [rikiadhin.my.id](https://rikiadhin.my.id)
 
-- 📝 I regularly write articles on [https://rikiadhin.my.id](https://rikiadhin.my.id)
+- 📝 I regularly write articles on [rikiadhin.my.id](https://rikiadhin.my.id)
 
 - 📫 How to reach me **rikiadhin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MqR28KLGgWrLduFUbek3B9iNYxTjv4Ya/view?usp=sharing](https://drive.google.com/file/d/1MqR28KLGgWrLduFUbek3B9iNYxTjv4Ya/view?usp=sharing)
+- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1MqR28KLGgWrLduFUbek3B9iNYxTjv4Ya/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am handsome**
 
