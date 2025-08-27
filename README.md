@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **rikiadhin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MqR28KLGgWrLduFUbek3B9iNYxTjv4Ya/view?usp=sharing](Curriculum Vitae)
-
 - ⚡ Fun fact **I think I am handsome**
 
 <h3 align="left">Connect with me:</h3>
